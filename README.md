@@ -147,7 +147,7 @@ I used WSL ubuntu to create this project. It should also work on Ubuntu 20.04 as
 
 ## Configuration
 To use this api you will need to run the following commands;
-- `git clone https://github.com/VinceXIV/code-challenge-superheroes`
+- `git clone https://github.com/brianwambuamu/code-challenge-superheroes`
 - `cd code-challenge-superheroes`
 - `bundle install`
 - `rails db:migrate db:seed`
@@ -158,11 +158,10 @@ At this point, you will have the server running on that terminal, which means yo
 ## Known bugs
 So far so good. No bugs have been identified
 
-## Support and Contact Details
-You can make contributions to the code or offer suggestions by reaching out me (the author of this work) through email. Here's my email; makokhavomondi@gmail.com
+
 
 ## License
-Copyright (c) 2022 Vincent Omondi
+Copyright (c) 2022 Brian Mutiso
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files , to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
